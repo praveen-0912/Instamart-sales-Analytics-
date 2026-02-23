@@ -1,4 +1,4 @@
-# Instamart-sales-Analytics-
+# Instamart Sales Analytics
 This dashboard provides a complete Instamart sales performance overview with clear KPIs and interactive insights. 
 ## Objective
 Monitor overall sales performance
